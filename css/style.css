@@ -1,8 +1,60 @@
 body {
-background-image: url(../images/background.jpg);
+background-image: url(../images/background.jpg); 
+background-position: center center;
 background-repeat: no-repeat;
+background-attachment: fixed;
 background-size: cover;
-position: relative;
-width: 100%;
+background-color: #222;
 }
 
+
+/* DIVS */
+
+#top {
+    background-color: white;
+    min-height: 1400px;
+    opacity: 0.5;
+    top:0;
+    border-bottom: 1px solid black;
+}
+
+#middle {
+    min-height: 1400px;
+    background-color: green;
+    opacity: 0.3;
+}
+
+#footer{
+    background-color: black;
+    opacity: 0.8;
+    position: fixed;
+    bottom: 0;
+    min-height: 30px;
+    left: 0;
+    width: 100%;
+    border-top: 1px solid white;
+}
+
+
+/* FONTS */
+
+#titlefont {
+    font-family: 'Russo One', sans-serif;
+    font-size: 40px;
+    padding-right: 20px;
+
+}
+
+#secondfont {
+    font-family: 'Russo One', sans-serif;
+    font-size: 20px;
+    padding-right: 20px;
+ }
+
+ #textwhite {
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 10px;
+     color: white;
+     text-align: center;
+
+ }
