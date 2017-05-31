@@ -39,9 +39,18 @@ background-color: #222;
 #hugefont {
     font-family: 'Russo One', sans-serif;
     color: white;
-    font-size: 200px;
+    font-size: 150px;
+    text-align: center;    
+    opacity: 0.80;
+}
+
+#hugefont2 {
+    font-family: 'Russo One', sans-serif;
+    color: white;
+    font-size: 40px;
     text-align: center;    
     opacity: 0.65;
+    padding-bottom:30px;
 }
 
 #titlefont {
