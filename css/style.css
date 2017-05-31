@@ -19,15 +19,12 @@ background-color: #222;
 }
 
 
-
-
-
 #footer{
     background-color: black;
     opacity: 0.8;
     position: fixed;
     bottom: 0;
-    min-height: 300px;
+    min-height: 200px;
     left: 0;
     width: 100%;
     border-top: 1px solid white;
@@ -36,18 +33,18 @@ background-color: #222;
 
 /* FONTS */
 
-#hugefont {
+#f1 {
     font-family: 'Russo One', sans-serif;
     color: white;
-    font-size: 150px;
+    font-size: 100px;
     text-align: center;    
     opacity: 0.80;
 }
 
-#hugefont2 {
+#f2 {
     font-family: 'Russo One', sans-serif;
     color: white;
-    font-size: 40px;
+    font-size: 30px;
     text-align: center;    
     opacity: 0.65;
     padding-bottom:30px;
@@ -66,9 +63,9 @@ background-color: #222;
     padding-right: 20px;
  }
 
- #textwhite {
+ #ff1 {
      font-family: Arial, Helvetica, sans-serif;
-     font-size: 10px;
+     font-size: 13px;
      color: white;
      text-align: center;
 }
