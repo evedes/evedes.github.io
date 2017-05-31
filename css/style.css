@@ -2,8 +2,8 @@ body {
 background-image: url(../images/background.jpg); 
 background-position: center center;
 background-repeat: no-repeat;
-background-attachment: fixed;
-background-size: cover;
+/* background-attachment: fixed;
+background-size: cover; */
 background-color: #222;
 }
 
@@ -65,7 +65,7 @@ background-color: #222;
     font-family: 'Asap', sans-serif;
     color: white;
     font-size: 20px;
-    opacity: 0.65;
+    opacity: 0.9;
 }
 
 #titlefont {
@@ -88,3 +88,8 @@ background-color: #222;
      text-align: center;
 }
 
+@media (min-width: 858px) {
+    html {
+        font-size: 20px;
+    }
+}
