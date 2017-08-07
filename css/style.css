@@ -13,27 +13,23 @@ body {
 
 .font1 {
     color: #fff;
-    margin-top: 100px;
+    margin-top: 70px;
     font-family: Anton, sans-serif;
     font-size: 100px;
   
 }
 
-
-
 .font3 {
     color: #fff;
     margin-top: 20px;
     font-family: 'Roboto Condensed', sans-serif;
-    font-size: 30px;
- 
+    font-size: 30px; 
 }
-
 
 
 #particles-js {
   position: fixed;
-  top: 0;
+  z-index: 1000;
   width: 100%;
   height: 100%;
 
