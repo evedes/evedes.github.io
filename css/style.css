@@ -1,95 +1,27 @@
+
 body {
-background-image: url(../images/background.jpg); 
-background-position: center center;
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-size: cover;
-background-color: #222;
+    background-image: url("../images/background.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #222;
 }
 
 
-/* DIVS */
-
-#top {
-    background-color: white;
-    min-height: 50px;
-    opacity: 0.5;
-    top:0;
-    border-bottom: 1px solid black;
-}
-
-#main1{
-    padding: 20px 20px 20px 20px;
-    min-height: 1000px;
-}
-
-#space1 {
-    padding: 30px;
-}
-
-#space2 {
-    padding: 50px;
-}
-
-#footer{
-    background-color: black;
-    opacity: 0.8;
-    position: fixed;
-    bottom: 0;
-    min-height: 200px;
-    left: 0;
-    width: 100%;
-    border-top: 1px solid white;
-}
-
-
-/* FONTS */
-
-#f1 {
-    font-family: 'Russo One', sans-serif;
-    color: white;
+.font1 {
+    color: #fff;
+    margin-top: 100px;
+    font-family: Anton, sans-serif;
     font-size: 100px;
-    text-align: center;    
-    opacity: 0.80;
 }
 
-#f2 {
-    font-family: 'Russo One', sans-serif;
-    color: white;
+
+
+.font3 {
+    color: #fff;
+    margin-top: 100px;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 30px;
-    opacity: 0.75;
-    padding-bottom:30px;
 }
 
-#f3 {
-    font-family: 'Asap', sans-serif;
-    color: white;
-    font-size: 20px;
-    opacity: 0.9;
-}
-
-#titlefont {
-    font-family: 'Russo One', sans-serif;
-    font-size: 40px;
-    padding-right: 20px;
-
-}
-
-#secondfont {
-    font-family: 'Russo One', sans-serif;
-    font-size: 20px;
-    padding-right: 20px;
- }
-
- #ff1 {
-     font-family: Arial, Helvetica, sans-serif;
-     font-size: 13px;
-     color: white;
-     text-align: center;
-}
-
-@media (min-width: 858px) {
-    html {
-        font-size: 35px;
-    }
-}
