@@ -1,45 +1,47 @@
 
-body {
-    background-image: url("../images/background.jpg");
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-color: #222;
-  
-}
-
 /* IDs */
 
 #particles-js {
-  position: fixed;
-  width: 100%;
-  height: 100%;
+    background-color: #000;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+
+#overlay{
+    position: relative;
 }
 
 /* Classes */
 
-.spacing{
-    padding-top: 80px;
-}
-
-.bg1{
-    background-color: #FCE205;
+.bgyellow{
+    background-color: yellow;
+    min-height: 350px;
 }
 
 .footer{
     position: fixed;
-    bottom: 0;
+    bottom:0;
     width: 100%;
-    background-color: #222;
+    min-height: 50px;
+    text-align: center;
+    background-color:#222;
 }
 
+
+
 .font1 {
+    text-align: center;
     color: #fff;
     margin-top: 200px;
     font-family: Anton, sans-serif;
     font-size: 150px;
     z-index: 1;
+
   
 }
 
@@ -48,6 +50,15 @@ body {
     margin-top: 20px;
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 30px; 
+    text-align: center;
+}
+
+.font3 {
+    color: #000;
+    margin-top: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 50px; 
+    text-align: center;
 }
 
 
