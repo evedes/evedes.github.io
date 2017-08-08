@@ -9,15 +9,18 @@ body {
   
 }
 
-.transbg{
+.bg{
     background-color: #222;
+    height: 1000px;
+    z-index: 1000;
 }
 
 .font1 {
     color: #fff;
-    margin-top: 70px;
+    margin-top: 200px;
     font-family: Anton, sans-serif;
-    font-size: 100px;
+    font-size: 150px;
+    z-index: 1;
   
 }
 
