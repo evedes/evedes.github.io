@@ -23,6 +23,10 @@ body {
     padding-top: 80px;
 }
 
+.bg1{
+    background-color: #FCE205;
+}
+
 .footer{
     position: fixed;
     bottom: 0;
