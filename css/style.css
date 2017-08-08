@@ -41,6 +41,10 @@
     min-height: 200px;
 }
 
+.bgblack{
+    background-color: #222;
+}
+
 .somepadding{
     padding-bottom: 100px;
 }
@@ -81,7 +85,7 @@
 .font1 {
     text-align: center;
     color: #fff;
-    margin-top: 200px;
+    margin-top: 150px;
     margin-bottom: 0px;
     font-family: Anton, sans-serif;
     font-size: 150px;
@@ -110,7 +114,21 @@
     text-align: center;
 }
 
+.font5{
+    color: #fff;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 15px;
+}
+
 .yellowtext{
     color: yellow;
 }
 
+.social{
+    height: 100px;
+    font-size: 55px;
+    color:yellow;
+  
+}
