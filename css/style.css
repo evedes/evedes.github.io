@@ -9,10 +9,25 @@ body {
   
 }
 
-.bg{
+/* IDs */
+
+#particles-js {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+}
+
+/* Classes */
+
+.spacing{
+    padding-top: 80px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
     background-color: #222;
-    height: 1000px;
-    z-index: 1000;
 }
 
 .font1 {
@@ -24,7 +39,7 @@ body {
   
 }
 
-.font3 {
+.font2 {
     color: #fff;
     margin-top: 20px;
     font-family: 'Roboto Condensed', sans-serif;
@@ -32,11 +47,3 @@ body {
 }
 
 
-#particles-js {
-  position: fixed;
-  z-index: 1000;
-  width: 100%;
-  height: 100%;
-
- 
-}
