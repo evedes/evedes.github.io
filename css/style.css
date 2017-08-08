@@ -27,7 +27,7 @@
 
 .talk{
     visibility: visible;
-    min-height: 250px;
+    height: 250px;
     transition: 0.5s ease-in;
 }
 
@@ -97,7 +97,7 @@
 .font4{
     color: #fff;
     font-family: 'Roboto Condensed', sans-serif;
-    font-size: 40px;
+    font-size: 20px;
     text-align: center;
 }
 
