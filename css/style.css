@@ -30,6 +30,7 @@
     display: block;
     visibility: visible;
     transition: 0.5s ease-in;
+    min-height: 500px;
 }
 
 .bgyellow{
@@ -38,7 +39,7 @@
 
 .bgyellow2{
     background-color: yellow;
-    min-height: 200px;
+    
 }
 
 .bgblack{
@@ -50,7 +51,11 @@
 }
 
 .somepadding2{
-    padding: 30px;
+    padding: 10px 0 40px 0;
+}
+
+.somepadding3{
+    padding: 15px 0 0 0;
 }
 
 .footer{
@@ -60,6 +65,16 @@
     min-height: 50px;
     text-align: center;
     background-color:#222;
+}
+
+a:link, a:visited, a:active{
+    color: yellow;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white !important;
+    text-decoration: none;
 }
 
 .glyphicon{
@@ -85,7 +100,7 @@
 .font1 {
     text-align: center;
     color: #fff;
-    margin-top: 150px;
+    margin-top: 300px;
     margin-bottom: 0px;
     font-family: Anton, sans-serif;
     font-size: 150px;
@@ -95,7 +110,7 @@
     color: #fff;
     margin-top: 20px;
     font-family: 'Roboto Condensed', sans-serif;
-    font-size: 30px; 
+    font-size: 40px; 
     text-align: center;
 }
 

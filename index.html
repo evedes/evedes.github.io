@@ -29,24 +29,81 @@
             <p class="font2">Hi guys! My name is Eduardo Vedes and I'm a Full-Stack Developer.</p>
         </div>
         <div class="row text-center social">
-            <i class="fa fa-codepen"></i>
-            <i class="fa fa-twitter"></i>
-            <i class="fa fa-linkedin"></i>
-            <i class="fa fa-github"></i>
-            <i class="fa fa-free-code-camp"></i>
+            <a href="https://codepen.io/evedes/" target="_blank"><i class="fa fa-codepen"></i></a>
+            <a href="https://twitter.com/eduardovedes" target="_blank"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.linkedin.com/in/vedes/" target="_blank"><i class="fa fa-linkedin"></i></a>
+            <a href="https://github.com/evedes" target="_blank"><i class="fa fa-github"></i></a>
+            <a href="https://github.com/freeCodeCampFaro" target="_blank"><i class="fa fa-free-code-camp"></i></a>
             
         </div>
         <div class="row bgyellow">    
             <p class="font3">Do you have any work to do? Let's talk!</p>
             <p class="font3"><a onclick="toggle()"><i class="glyphicon glyphicon-menu-down"></i></a></p>
         </div>
-        <div class="row bgyellow2 talkhidden" id="talkdiv">
+        <div class="row bgyellow2 talkhidden someheight" id="talkdiv">
             <p class="font3">Please tell me more!</p>
+            <form class="form-horizontal" action="https://formspree.io/eduardo.vedes@gmail.com" method="POST">
+                
+                <div class="form-group">
+                    <label class="control-label col-sm-4">Full Name:</label>
+                        <div class="col-sm-4">
+                            <input type="text" name="Full Name" class="form-control" placeholder="Enter your Full Name">
+                        </div>
+                </div>
+                
+                <div class="form-group">
+                    <label class="control-label col-sm-4">Company:</label>
+                        <div class="col-sm-4">
+                            <input type="text" name="Company" class="form-control" placeholder="Enter your Company Name">
+                        </div>
+                </div>
+
+
+                <div class="form-group">
+                    <label class="control-label col-sm-4">Email:</label>
+                        <div class="col-sm-4">
+                            <input type="email" name="_replyto" class="form-control" placeholder="Enter your email">
+                        </div>
+                </div>
+                
+                <div class="form-group">
+                    <label class="control-label col-sm-4">Skype</label>
+                        <div class="col-sm-4"> 
+                            <input type="text" name="skype" class="form-control"  placeholder="Enter your Skype Contact">
+                        </div>
+                </div>
+                
+                <div class="form-group">
+                    <label class="control-label col-sm-4">How can I Help You?</label>
+                        <div class="col-sm-4"> 
+                            <textarea class="form-control rows="5" name="message"></textarea>
+                        </div>
+                </div>
+                        
+                <div class="form-group"> 
+                    <div class="col-sm-4"></div>
+                    <div class="col-sm-4 text-center">
+                        <button type="submit" class="btn btn-danger" onclick="toggle()">Submit</button>
+                    </div>
+                </div>
+            </form>
+            
+            
+           
+
         </div>
         <div class="row bgblack">
             <div class="col-sm-2"></div>
             <div class="col-sm-8">
-               <p class="font4 text-justify somepadding2">Eduardo Vedes, 37, JavaScript Full-Stack Developer with a strong passion for tech and everything around it. Tinkerer, Jack-of-All-Trades, MSc in Civil Engineering and Project Management with a strong passion for the web. Over a decade as an Engineering consultant working for 5 years on the Subsarian African markets. Strong background on maths and physics. Self taught Software Engineer with a keen passion by UI/UX, Front-end and Back-end development. FreeCodeCamp Evangelist and ocasionally motivational blogger on career change subjects.</p>
+                <p class="font2 text-left somepadding3">01.BIO</p>                
+                <p class="font4 text-justify somepadding2">Eduardo Vedes, 37, JavaScript Full-Stack 
+                        Developer with a strong passion for tech and everything around it. Strong background on maths and
+                        physics. Self taught Software Engineer with a keen passion by UI/UX,
+                        Front-end and Back-end development. 
+                        MSc in Civil Engineering, consultant and project manager with
+                        a strong focus on operational research. Over a decade as a consultant working 
+                        for 5 years on the Subsarian African markets. Avid learner, FreeCodeCamp Evangelist and ocasionally
+                        a motivational blogger on career change subjects. Likes to read books, travel, play the piano or the guitar and motivate people.</p>
             </div>
             <div class="col-sm-2"></div>
         </div>
