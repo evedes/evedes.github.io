@@ -33,9 +33,9 @@
     min-height: 500px;
 }
 
+
 .bgyellow{
-    background-color: yellow; 
-    height: 600px;   
+    background-color: yellow;  
 }
 
 .bgyellow2{
@@ -44,6 +44,7 @@
 }
 
 .bgblack{
+  
     background-color: #222;
 }
 
