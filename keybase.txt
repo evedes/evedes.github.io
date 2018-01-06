@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/evedes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://evedes.me
+  * I am evedes (https://keybase.io/evedes) on keybase.
+  * I have a public key ASA4kU60J0vb5e_M2g70I8WUaeNRs5FXfDZsRVS7aOL3uAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012027fab0eb039aef6eba6f412520d8b8295cb1728b4a031316f576ab52553c23790a",
+      "host": "keybase.io",
+      "kid": "012038914eb4274bdbe5efccda0ef423c59469e351b391577c366c4554bb68e2f7b80a",
+      "uid": "c8559da0f6d13aa5f78ca06893da0a19",
+      "username": "evedes"
+    },
+    "merkle_root": {
+      "ctime": 1515240683,
+      "hash": "4de463580aa1129dd89cb0ff388caab70569d6fd9febcc92c2bd7e72286e5beb08db6fbca859d8a49a48786b0cfbe44c61faf61576d44f6326a59a319b99a07d",
+      "hash_meta": "35604bbb0dcbe489b32eb1b778c5f694f47ac258adfe79ee1aaf243a6ff415f1",
+      "seqno": 1893781
+    },
+    "service": {
+      "hostname": "evedes.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1515240712,
+  "expire_in": 504576000,
+  "prev": "27223ed6aa7b94ea6126cc5ac220d512c5ece4a619a62f703690df52199e0322",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOJFOtCdL2+XvzNoO9CPFlGnjUbORV3w2bEVUu2ji97gKp3BheWxvYWTFAz97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMjdmYWIwZWIwMzlhZWY2ZWJhNmY0MTI1MjBkOGI4Mjk1Y2IxNzI4YjRhMDMxMzE2ZjU3NmFiNTI1NTNjMjM3OTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzg5MTRlYjQyNzRiZGJlNWVmY2NkYTBlZjQyM2M1OTQ2OWUzNTFiMzkxNTc3YzM2NmM0NTU0YmI2OGUyZjdiODBhIiwidWlkIjoiYzg1NTlkYTBmNmQxM2FhNWY3OGNhMDY4OTNkYTBhMTkiLCJ1c2VybmFtZSI6ImV2ZWRlcyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxNTI0MDY4MywiaGFzaCI6IjRkZTQ2MzU4MGFhMTEyOWRkODljYjBmZjM4OGNhYWI3MDU2OWQ2ZmQ5ZmViY2M5MmMyYmQ3ZTcyMjg2ZTViZWIwOGRiNmZiY2E4NTlkOGE0OWE0ODc4NmIwY2ZiZTQ0YzYxZmFmNjE1NzZkNDRmNjMyNmE1OWEzMTliOTlhMDdkIiwiaGFzaF9tZXRhIjoiMzU2MDRiYmIwZGNiZTQ4OWIzMmViMWI3NzhjNWY2OTRmNDdhYzI1OGFkZmU3OWVlMWFhZjI0M2E2ZmY0MTVmMSIsInNlcW5vIjoxODkzNzgxfSwic2VydmljZSI6eyJob3N0bmFtZSI6ImV2ZWRlcy5tZSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzgifSwiY3RpbWUiOjE1MTUyNDA3MTIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMjcyMjNlZDZhYTdiOTRlYTYxMjZjYzVhYzIyMGQ1MTJjNWVjZTRhNjE5YTYyZjcwMzY5MGRmNTIxOTllMDMyMiIsInNlcW5vIjoxNiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEArm1/Gpu8cJsi13GYCISrwGTZC4kPBAo5Ad7o0Ssb8py+xcDvGBZlIYdl7/Oizf697k7flA3E1WbOOyUUPUPEEqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgRqID3+4swUR771j8+0eU4Dexaa9Jhnxk4p46FUxAfHGjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/evedes
+
+==================================================================
